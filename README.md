@@ -9,7 +9,7 @@ I'm a passionate software development graduate from Greece, and a top graduate o
 - **Degree:** Diploma in Software Development
 - **Graduation:** 2024
   
-## 🚀 Projects
+## 🚀Latest Projects
 ### Company Employee Management System
 - **Technologies Used:** Java
 - **Description:** Comprehensive system for managing employee details.
