@@ -36,7 +36,7 @@ I'm a passionate software development graduate from Greece, and a top graduate o
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=proddeha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=proddeha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=proddeha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=proddeha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
